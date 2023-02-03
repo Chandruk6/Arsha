@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    top: 0;
+}
+.box{
+    background:linear-gradient(rgba(36, 36, 99, 0.8),rgba(66, 66, 144, 0.8)),url('image/cta-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px 0px;
+    
+    
+}
+#contact .icon1 i{
+    background-color: rgb(152, 219, 253);
+    color: rgb(4, 155, 243);
+    font-size: 18px;
+    border-radius: 50%;
+    width: 35px;height: 35px;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+}
+#Team .icon i{
+    background-color: rgb(181, 180, 180);
+    width: 35px;height: 35px;
+    font-size: 18px;
+   align-items: center;
+   justify-content: center;
+    display: inline-flex;
+    border-radius: 50%;
+
+}
+ footer .icon i{
+    color: white;
+    background-color:  #209DD8;
+    width: 35px;height: 35px;
+    font-size: 18px;
+   align-items: center;
+   justify-content: center;
+    display: inline-flex;
+    border-radius: 50%;
+
+}
